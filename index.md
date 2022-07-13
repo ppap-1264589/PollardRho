@@ -151,6 +151,6 @@ signed main(){
 
 ## Chú ý
 
-Cũng giống thuật MillerRabin, không phải trình chấm nào cũng chấp nhận kiểu số __uint128_t và hàm sinh mt19937, ví dụ như các kì thi HSG của Việt Nam
+Cũng giống thuật MillerRabin, không phải trình chấm nào cũng chấp nhận kiểu số __uint128_t, ví dụ như các kì thi HSG của Việt Nam
 
 Thuật toán này có thể ăn được một vài bài ICPC một cách khá láo :) 
